@@ -1,4 +1,4 @@
-# 🚀 DevSpace – 42 Abu Dhabi Events Platform
+![image](https://github.com/user-attachments/assets/9e3cce65-cb87-45cb-9591-abbb4f52642c)# 🚀 DevSpace – 42 Abu Dhabi Events Platform
 
 DevSpace is a Django-powered web application designed to showcase events hosted by 42 Abu Dhabi. It features a sleek, modern UI with carousel-based event cards, responsive design, and multilingual support.
 
@@ -28,6 +28,4 @@ Coming soon...
 
 Here’s a sneak peek of the design built in Figma:
 
-[![Figma Preview](assets/figma-preview.png)](https://www.figma.com/file/your-figma-link-id/Project-Name?type=design)
-
-🔗 [Click here to open the full design in Figma](https://www.figma.com/file/your-figma-link-id/Project-Name?type=design)
+![Screenshot 2025-05-12 123907](https://github.com/user-attachments/assets/0916feb7-ca9f-47e6-b145-a9161ec6275a)
