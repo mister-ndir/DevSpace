@@ -24,3 +24,10 @@ Coming soon...
 
 ## 📁 Project Structure
 
+## 🎨 UI Design
+
+Here’s a sneak peek of the design built in Figma:
+
+[![Figma Preview](assets/figma-preview.png)](https://www.figma.com/file/your-figma-link-id/Project-Name?type=design)
+
+🔗 [Click here to open the full design in Figma](https://www.figma.com/file/your-figma-link-id/Project-Name?type=design)
